@@ -123,6 +123,4 @@ Admin Dashboard
 OTP Verification
 Analytics Dashboard
 AI Recommendations
-👨‍💻 Developed By
 
-Abhishek Kahar
